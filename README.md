@@ -6,7 +6,7 @@
 
 Expense Manager is an open-source expense tracking and visualization app developed using [Flutter](http://flutter.dev) and utilizes a self-hosted [PostgreSQL](https://www.postgresql.org) database instance for data management.
 
-## Features
+## Features 
 
 📊 **Dashboard Overview** — Visualize your financial data with interactive widgets like pie charts and income vs. expense trends.
 
